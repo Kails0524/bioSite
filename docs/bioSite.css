@@ -129,8 +129,9 @@ body, html {
 
 .about-text h1 {
     font-weight:bold;
-    font-size:xxx-large;
+    font-size:50px;
     text-align:center;
+    font-family: 'Hind Siliguri', sans-serif;
 }
 
 .about-header {
@@ -144,6 +145,7 @@ body, html {
 .hobbies-header {
     text-align: center;
     font-size:xx-large;
+    font-family: 'Hind Siliguri', sans-serif;
 }
 
 * {
@@ -153,7 +155,11 @@ body, html {
 .column {
   float: left;
   width: 33.33%;
-  padding: 5px;
+  padding: 2px;
+}
+
+.column h1 {
+  font-family: 'Hind Siliguri', sans-serif;
 }
 
 /* Clearfix (clear floats) */
