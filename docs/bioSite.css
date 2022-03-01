@@ -112,6 +112,36 @@ body, html {
     display:block;
 }
 
+.Accomplishment {
+  font-size:xxx-large;
+  text-align:center;
+  margin-top:70px;
+}
+
+.accomplishment text{
+  text-align:center;
+}
+
+.mcc img{
+  width:80%;
+  margin-left:50px;
+}
+
+.Long-Goal{
+  font-size:xxx-large;
+  text-align:center;
+  margin-top:80px;
+}
+
+.Long-Goal text{
+  text-align:center;
+}
+
+.River img{
+  margin-bottom:80px; 
+  width:100%;
+}
+
 .about-img {
     float:left; 
     margin-right:50px; 
